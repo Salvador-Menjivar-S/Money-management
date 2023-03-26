@@ -1,0 +1,7 @@
+gspread==5.7.2
+holoviews==1.15.4
+hvplot==0.8.3
+numpy==1.24.2
+pandas==1.5.3
+panel==0.14.4
+param==1.13.0
